@@ -1,0 +1,71 @@
+form {
+  padding: 20px;
+  display: block;
+  text-align: right;
+}
+
+h2 {
+  font-size: 80px;
+  text-align: center;
+  line-height: 60px;
+  margin: 10px;
+  padding: 10px;
+}
+p {
+  text-align: center;
+}
+
+.container {
+  background-image: url("images/clouds.jpg");
+  border: 1px solid blueviolet;
+  border-radius: 40px;
+  margin-top: 30px;
+  max-width: 900px;
+}
+.where {
+  max-width: 300px;
+  margin: 25px 10px;
+  margin-left: 60px;
+}
+.daily {
+  position: relative;
+  border: 1px solid black;
+  top: -300px;
+  left: 450px;
+  margin: 0px 60px 0px 0px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.label {
+  position: relative;
+  top: -200px;
+  left: 45px;
+}
+.future-weather {
+  margin: -200px 0px 30px 0px;
+}
+.col-2 {
+  border: 1px solid salmon;
+  border-radius: 8px;
+  background-color: whitesmoke;
+  margin: 0px 8px 0px 0px;
+  padding: 10px 8px;
+  text-align: center;
+}
+.header {
+  margin: 0px auto;
+  padding: 8px;
+  display: block;
+}
+.searchbar {
+  border-radius: 30px;
+  margin-left: 10px;
+  text-align: center;
+  width: 85%;
+}
+.searchButton {
+  border-radius: 40px;
+  opacity: 0.5;
+  margin-right: 10px;
+}
